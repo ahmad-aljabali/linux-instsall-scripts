@@ -4,6 +4,7 @@ sudo apt upgrade
 # CUDA
 sudo apt install nvidia-cuda-toolkit nvidia-modprobe
 
+sudo apt install ttf-mscorefonts-installer
 sudo apt install gnome-tweaks 
 sudo apt install synaptic
 sudo apt install htop
