@@ -11,7 +11,8 @@ sudo apt install nvidia-cuda-toolkit nvidia-modprobe
 
 # System Utils
 sudo apt install ttf-mscorefonts-installer
-sudo apt install gnome-tweaks 
+sudo apt install gnome-tweaks
+sudo apt install breeze-cursor-theme
 sudo apt install synaptic
 sudo apt install htop
 sudo apt install tilix
