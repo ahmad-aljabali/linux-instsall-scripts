@@ -38,6 +38,7 @@ sudo apt install gimp
 # Development and Engineering
 sudo apt install gnome-boxes
 sudo apt install atom
+flatpak install flathub cc.arduino.arduinoide
 sudo apt install freecad
 
 sudo apt autoremove
