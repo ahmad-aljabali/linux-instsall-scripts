@@ -7,7 +7,7 @@ flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flath
 sudo apt install snapd
 
 # CUDA
-sudo apt install nvidia-cuda-toolkit nvidia-modprobe
+#sudo apt install nvidia-cuda-toolkit nvidia-modprobe
 
 # System Utils
 sudo apt install ttf-mscorefonts-installer
@@ -30,7 +30,7 @@ sudo apt install vlc
 sudo snap install spotify
 
 # Art
-#sudo apt install blender
+sudo apt install blender
 sudo snap install musescore
 sudo apt install rawtherapee
 sudo apt install gimp
